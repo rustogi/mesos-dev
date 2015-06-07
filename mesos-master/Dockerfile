@@ -1,4 +1,4 @@
-FROM mesos-dev:v1
+FROM mesos-dev:0.1
 MAINTAINER rustogi
 
 EXPOSE 5050
